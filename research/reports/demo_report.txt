@@ -1,0 +1,21 @@
+============================================================
+  QUANT RESEARCH FRAMEWORK — REPORTE
+============================================================
+
+SENALES INVESTIGADAS:
+  momentum_12_1: DESCARTAR
+  zscore_60d: DESCARTAR
+  low_vol: DESCARTAR
+
+TOP 10 PARAM SCAN:
+          family              params    sharpe       mdd   score  bias_robust
+1         BB Rev         w=30, k=2.5  1.111252 -0.017360  0.5993         True
+2   RSI Mean Rev  w=14, lo=35, hi=80  1.501204 -0.137475  0.3962         True
+3         BB Rev         w=20, k=2.5  1.487813 -0.003353  0.7586        False
+4         BB Rev         w=15, k=2.5  0.871837 -0.000246  0.7376        False
+5         BB Rev         w=40, k=3.0  0.949499 -0.001104  0.7182        False
+6         BB Rev         w=10, k=2.5  0.790909 -0.002431  0.6800        False
+7       Momentum       lb=120, sk=10  2.311745 -0.062404  0.6682        False
+8   RSI Mean Rev   w=7, lo=30, hi=80  2.219648 -0.078763  0.6267        False
+9         BB Rev         w=30, k=3.0  1.069371 -0.008753  0.6191        False
+10  RSI Mean Rev  w=14, lo=20, hi=80  1.772473 -0.067515  0.6052        False

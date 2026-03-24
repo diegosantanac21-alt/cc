@@ -1,0 +1,26 @@
+============================================================
+  PORTFOLIO REPORT | alpha_pro_multi
+============================================================
+
+rebalance_frequency: weekly
+long_short:          True
+top_n:               4
+bottom_n:            4
+
+total_return: -0.0225
+benchmark_total_return: 2.157
+cagr: -0.0038
+vol_annual: 0.1278
+sharpe: 0.034
+sortino: 0.03
+max_drawdown: -0.2722
+calmar: -0.014
+var_95: -0.0128
+cvar_95: -0.02
+beta: -0.059
+ir: -0.804
+avg_turnover: 0.0929
+avg_active_names: 6.65
+avg_gross_exposure: 0.8315
+avg_net_exposure: 0.0
+rebalance_count: 313
